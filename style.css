@@ -1,0 +1,95 @@
+body {
+    padding: 20px;
+    background-color: black;
+}
+
+#heading {
+	text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: darkred;
+}
+
+#main {
+    width: 350px;
+    margin: 0 auto;
+    background-color: lightblue;
+	padding: 10px;
+    border: 5px solid #137673;
+    border-radius: 10px;
+}
+
+input {
+    text-align: center;
+}
+
+::placeholder{
+    color: black !important;
+}
+
+.all-btns:hover {
+	font-size: 30px;
+    font-weight: bold;
+    transition: all 0.2s ease;
+}
+
+.chng-clr:active {
+	color: black !important;
+}
+
+.btn-danger:focus {
+    color: black;
+}
+
+.c-del-btn {
+    color: black;
+	width: 120px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.c-del-btn:hover {
+	color: black;
+}
+
+.c-del-btn:active {
+	color: white !important;
+}
+
+#del {
+/*    float: right;*/
+}
+
+.cal-btns {
+	width: 76.7px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+#dot {
+	width: 71px;
+    margin: 0 auto;
+    height: 50px;
+    font-size: 25px;
+}
+
+.zero-qual-btn {
+    width: 117.2px;
+    height: 50px;
+    font-size: 25px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
